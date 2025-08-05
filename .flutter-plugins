@@ -1,0 +1,21 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/Habel/.pub-cache/hosted/pub.dev/cloud_firestore-4.17.5/
+cloud_firestore_web=/Users/Habel/.pub-cache/hosted/pub.dev/cloud_firestore_web-3.12.5/
+firebase_auth=/Users/Habel/.pub-cache/hosted/pub.dev/firebase_auth-4.20.0/
+firebase_auth_web=/Users/Habel/.pub-cache/hosted/pub.dev/firebase_auth_web-5.12.0/
+firebase_core=/Users/Habel/.pub-cache/hosted/pub.dev/firebase_core-2.32.0/
+firebase_core_web=/Users/Habel/.pub-cache/hosted/pub.dev/firebase_core_web-2.17.2/
+firebase_messaging=/Users/Habel/.pub-cache/hosted/pub.dev/firebase_messaging-14.9.4/
+firebase_messaging_web=/Users/Habel/.pub-cache/hosted/pub.dev/firebase_messaging_web-3.8.7/
+google_sign_in=/Users/Habel/.pub-cache/hosted/pub.dev/google_sign_in-6.2.1/
+google_sign_in_android=/Users/Habel/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.25/
+google_sign_in_ios=/Users/Habel/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.7.6/
+google_sign_in_web=/Users/Habel/.pub-cache/hosted/pub.dev/google_sign_in_web-0.12.4+1/
+path_provider_linux=/Users/Habel/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/Users/Habel/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.1/
+shared_preferences=/Users/Habel/.pub-cache/hosted/pub.dev/shared_preferences-2.2.3/
+shared_preferences_android=/Users/Habel/.pub-cache/hosted/pub.dev/shared_preferences_android-2.2.3/
+shared_preferences_foundation=/Users/Habel/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.4.0/
+shared_preferences_linux=/Users/Habel/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.3.2/
+shared_preferences_web=/Users/Habel/.pub-cache/hosted/pub.dev/shared_preferences_web-2.3.0/
+shared_preferences_windows=/Users/Habel/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.3.2/
